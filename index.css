@@ -1,3 +1,21 @@
 body {
     margin: 0;
 }
+
+.container {
+    width: 550px;
+    margin: auto;
+    padding: 50px;
+    background: lightblue;
+}
+
+.password-container {
+    display: flex;
+}
+
+.passwords {
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    margin: 10px 20px
+}
