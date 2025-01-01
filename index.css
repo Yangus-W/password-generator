@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: "Inter", serif;
     font-weight: 300;
-    background: #1C1C1C;
+    background: #ECFDF5;
 }
 
 .container {
@@ -10,7 +10,6 @@ body {
     height: 320px;
     margin: auto;
     padding: 115px 52px;
-    background: #ECFDF5;
 }
 
 h1 {
