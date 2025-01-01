@@ -2,8 +2,8 @@
 Scrimba solo project 2
 
 ## Requirements
-- Generate two random passwords when the user clicks the button
-- Each password should be 15 characters long
+- ✅ Generate two random passwords when the user clicks the button
+- ✅ Each password should be 15 characters long
 
 ## Strech goals
 - Ability to set password length
